@@ -145,3 +145,4 @@ docs/
 tests/
 RELEASING/
 superset/examples/
+!docker/.env
